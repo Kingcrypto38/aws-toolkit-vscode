@@ -4375,7 +4375,7 @@
         "highlight.js": "^11.9.0",
         "i18n-ts": "^1.0.5",
         "immutable": "^4.3.0",
-        "js-yaml": "^4.1.0",
+        "js-yaml": "^4.1.1",
         "jsonc-parser": "^3.2.0",
         "lodash": "^4.17.21",
         "markdown-it": "^13.0.2",
